@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>NIST CSF Operational Tracker - Jira</title>
 </head>
 <body>
   <h1>NIST CSF Operational Tracker (Jira)</h1>
